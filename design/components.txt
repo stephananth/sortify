@@ -15,3 +15,5 @@ Create new playlists
 Analysis
     Vizualization -> Selection of types of charts
     For most played in ranges and recently played
+
+In your top-level project directory, include a directory named "design", and in that directory place all your design documents. At a minimum, this must include a paragraph or two describing the problem you are solving and the general approach your code takes to solve it. After reading this, another programmer (or a TA!) should be able to make sense out of the module or modules you designed and the most important functions they contain. Also, you should discuss your user interface (assuming you have one, as most of you will), explaining not just what your program looks like but why it does so. For example, many of you started your projects by studying similar programs on the web -- you should list those here and explain what was good and bad about those programs and how they influenced your design. You should also include any other supporting design documents you might have (particularly from earlier deliverables), such as storyboards or any other materials you made in the course of designing your project.
