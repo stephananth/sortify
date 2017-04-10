@@ -1,4 +1,4 @@
-Stephanie K. Ananth
+Stephanie K. Ananth (sananth)
 
 04-05   06.00   Downloading spotipy, reading through some of the documentation, and looking through some examples
 04-07   04.00   Trying to figure out how spotipy works
