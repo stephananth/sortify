@@ -4,6 +4,7 @@ Sorting
     By playlist (only saved music, all music, etc.)
     By genre
     By most played (short, medium, long term)
+        Most played artists -> Playlist of top songs
     By recently played
 Create new playlists
     Be able to sort by name, artist, genre, date, etc.
