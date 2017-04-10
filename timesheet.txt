@@ -2,4 +2,5 @@ Stephanie K. Ananth (sananth)
 
 04-05   06.00   Downloading spotipy, reading through some of the documentation, and looking through some examples
 04-07   04.00   Trying to figure out how spotipy works
-04-10   02.00   Coming up with a name and initializing a repository, files, and documentation
+04-10   01.00   Coming up with a name and initializing a repository, files, and documentation
+        03.00   Looking through more code examples
