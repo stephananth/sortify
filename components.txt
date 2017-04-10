@@ -1,0 +1,16 @@
+Library
+    Sorting
+        By playlist (only saved music, all music, etc.)
+        By genre
+        By most played (short, medium, long term)
+        By recently played
+    Create new playlists
+        Be able to sort by name, artist, genre, date, etc.
+        Collapse and expand header
+        Scrolling? -> State instructions
+        See individual song details in sidebar
+            Show images? -> Lite version?
+        Remove (and add [-> search bar]) additional songs?
+    Analysis
+        Vizualization -> Selection of types of charts
+        For most played in ranges and recently played
