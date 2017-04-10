@@ -1,1 +1,3 @@
+Stephanie K. Ananth (sananth)
 
+Here you should include hand-drawn pictures (do not worry about making them pretty) showing how your app will work from the user's perspective. Using your storyboard, you will walk your mentor through the user experience of your program, and you will do this prior to writing lots of code. This way, your mentor can help you make any necessary adjustments to your design prior to your having a huge investment in a large code base.
