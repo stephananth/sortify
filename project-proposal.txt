@@ -1,1 +1,3 @@
+Stephanie K. Ananth (sananth)
 
+Include a complete and thorough project proposal, clearly defining the problem you intend to solve and a fairly detailed description of how you intend to solve it. In particular, your proposal must list all modules/technologies you plan to use outside of Tkinter.
