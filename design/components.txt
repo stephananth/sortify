@@ -8,6 +8,7 @@ Sorting
     By recently played
 Create new playlists
     Be able to sort by name, artist, genre, date, etc.
+        Sliders for numbers (10 artists X 10 songs -> 50 artists X 2 songs)
     Collapse and expand header
     Scrolling? -> State instructions
     See individual song details in sidebar
