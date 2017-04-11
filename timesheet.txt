@@ -4,3 +4,4 @@ Stephanie K. Ananth (sananth)
 04-07   04.00   Trying to figure out how spotipy works
 04-10   01.00   Coming up with a name and initializing a repository, files, and documentation
         06.00   Editing and understanding all the code examples
+        05.00   Writing code to create playlists
