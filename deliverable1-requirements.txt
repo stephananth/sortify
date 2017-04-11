@@ -8,7 +8,7 @@ Deliverable previews - optional
 This deliverable includes several items that are technical and complicated, including your proposal, competitive analysis, storyboard, etc. To increase the chances that you are meeting the expected standards for this project, you are strongly encouraged to review these deliverables with your mentor prior to the deadline, perhaps even several times. In particular, you will want to submit multiple drafts of your project proposal to your mentor well ahead of the deadline, and then have numerous discussions on the feasibility and suitability of your proposal during this phase of the project.
 
 Project zip file (under 10 MB)
-    Project proposal -> List of all modules/technologies
+    Project proposal -> List of all modules/technologies (spotipy, pygame, data viz., stats. package)
     Competitive analysis -> Positives and negative
     Storyboard
     Code artifacts -> (200 - 400 lines)
