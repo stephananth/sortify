@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b35df8e-d1b8-4ba3-93e5-f27d87f53440" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../requests/requests/cacert.pem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../spotipy/examples/deadmau5.gv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../spotipy/examples/deadmau5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../spotipy/examples/long_track_test.dat" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="0b35df8e-d1b8-4ba3-93e5-f27d87f53440" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
