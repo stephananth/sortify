@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../brew/.idea/brew.iml" filepath="$PROJECT_DIR$/../brew/.idea/brew.iml" />
       <module fileurl="file://$PROJECT_DIR$/../brew-master/.idea/brew-master.iml" filepath="$PROJECT_DIR$/../brew-master/.idea/brew-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/../requests/.idea/requests.iml" filepath="$PROJECT_DIR$/../requests/.idea/requests.iml" />
       <module fileurl="file://$PROJECT_DIR$/../seaborn/.idea/seaborn.iml" filepath="$PROJECT_DIR$/../seaborn/.idea/seaborn.iml" />

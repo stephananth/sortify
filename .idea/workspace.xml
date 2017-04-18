@@ -2,31 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b35df8e-d1b8-4ba3-93e5-f27d87f53440" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../brew/Library/Homebrew/build_environment.rb" afterPath="$PROJECT_DIR$/../brew/Library/Homebrew/build_environment.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../brew/Library/Homebrew/cmd/info.rb" afterPath="$PROJECT_DIR$/../brew/Library/Homebrew/cmd/info.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../brew/Library/Homebrew/cmd/tap.rb" afterPath="$PROJECT_DIR$/../brew/Library/Homebrew/cmd/tap.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../brew/Library/Homebrew/keg_relocate.rb" afterPath="$PROJECT_DIR$/../brew/Library/Homebrew/keg_relocate.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../brew/Library/Homebrew/test/support/fixtures/receipt.json" afterPath="$PROJECT_DIR$/../brew/Library/Homebrew/test/support/fixtures/receipt.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../brew/Library/Homebrew/test/support/fixtures/test.svg" afterPath="$PROJECT_DIR$/../brew/Library/Homebrew/test/support/fixtures/test.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../brew/docs/_layouts/base.html" afterPath="$PROJECT_DIR$/../brew/docs/_layouts/base.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../brew/docs/_layouts/home.html" afterPath="$PROJECT_DIR$/../brew/docs/_layouts/home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../brew/docs/_layouts/index.html" afterPath="$PROJECT_DIR$/../brew/docs/_layouts/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../brew/docs/_layouts/page.html" afterPath="$PROJECT_DIR$/../brew/docs/_layouts/page.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../brew/docs/_layouts/post.html" afterPath="$PROJECT_DIR$/../brew/docs/_layouts/post.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../brew/docs/css/pygments.css" afterPath="$PROJECT_DIR$/../brew/docs/css/pygments.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../brew/docs/css/reset.css" afterPath="$PROJECT_DIR$/../brew/docs/css/reset.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../brew/docs/css/screen.css" afterPath="$PROJECT_DIR$/../brew/docs/css/screen.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/__init__.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/__init__.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/adapters.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/adapters.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/auth.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/auth.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/cookies.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/cookies.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/models.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/models.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/__init__.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/chardet/chardetect.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/chardet/chardetect.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/chardet/charsetgroupprober.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/chardet/charsetgroupprober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/chardet/charsetprober.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/chardet/charsetprober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/chardet/eucjpprober.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/chardet/eucjpprober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/chardet/mbcharsetprober.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/chardet/mbcharsetprober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/chardet/sbcharsetprober.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/chardet/sbcharsetprober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/chardet/sjisprober.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/chardet/sjisprober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/chardet/universaldetector.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/chardet/universaldetector.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/idna/codec.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/idna/codec.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/idna/core.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/idna/core.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/__init__.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/_collections.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/_collections.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/connection.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/connection.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/connectionpool.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/connectionpool.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/contrib/appengine.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/contrib/appengine.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/contrib/ntlmpool.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/contrib/ntlmpool.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/contrib/pyopenssl.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/contrib/pyopenssl.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/exceptions.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/exceptions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/fields.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/fields.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/filepost.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/filepost.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/packages/__init__.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/packages/__init__.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/packages/six.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/packages/six.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/poolmanager.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/poolmanager.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/request.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/request.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/response.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/response.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/util/__init__.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/util/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/util/connection.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/util/connection.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/util/request.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/util/request.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/util/response.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/util/response.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/util/retry.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/util/retry.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/util/ssl_.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/util/ssl_.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/util/timeout.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/util/timeout.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/util/url.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/util/url.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/sessions.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/sessions.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/structures.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/structures.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/utils.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/utils.py" />
@@ -34,7 +48,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/__init__.py" afterPath="$PROJECT_DIR$/../requests/requests/__init__.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/adapters.py" afterPath="$PROJECT_DIR$/../requests/requests/adapters.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/auth.py" afterPath="$PROJECT_DIR$/../requests/requests/auth.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/compat.py" afterPath="$PROJECT_DIR$/../requests/requests/compat.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/cookies.py" afterPath="$PROJECT_DIR$/../requests/requests/cookies.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/models.py" afterPath="$PROJECT_DIR$/../requests/requests/models.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/packages/__init__.py" afterPath="$PROJECT_DIR$/../requests/requests/packages/__init__.py" />
@@ -42,7 +55,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/packages/chardet/charsetgroupprober.py" afterPath="$PROJECT_DIR$/../requests/requests/packages/chardet/charsetgroupprober.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/packages/chardet/charsetprober.py" afterPath="$PROJECT_DIR$/../requests/requests/packages/chardet/charsetprober.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/packages/chardet/eucjpprober.py" afterPath="$PROJECT_DIR$/../requests/requests/packages/chardet/eucjpprober.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/packages/chardet/jpcntx.py" afterPath="$PROJECT_DIR$/../requests/requests/packages/chardet/jpcntx.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/packages/chardet/mbcharsetprober.py" afterPath="$PROJECT_DIR$/../requests/requests/packages/chardet/mbcharsetprober.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/packages/chardet/sbcharsetprober.py" afterPath="$PROJECT_DIR$/../requests/requests/packages/chardet/sbcharsetprober.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/packages/chardet/sjisprober.py" afterPath="$PROJECT_DIR$/../requests/requests/packages/chardet/sjisprober.py" />
@@ -129,8 +141,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="821" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -171,7 +184,6 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="FullScreen" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
   </component>
   <component name="PyCoverageOptionsProvider">
@@ -306,6 +318,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -374,27 +392,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="22" width="1440" height="821" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24305555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39976552" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -415,9 +433,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#115#128#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -425,7 +440,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -433,7 +447,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -441,7 +454,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -449,7 +461,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -457,7 +468,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -481,7 +491,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -489,7 +498,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -497,7 +505,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -505,7 +512,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -513,7 +519,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -521,7 +526,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -529,7 +533,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
