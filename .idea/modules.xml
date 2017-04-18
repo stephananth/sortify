@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../seaborn/.idea/seaborn.iml" filepath="$PROJECT_DIR$/../seaborn/.idea/seaborn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sortify.iml" filepath="$PROJECT_DIR$/.idea/sortify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spotipy/.idea/spotipy.iml" filepath="$PROJECT_DIR$/../spotipy/.idea/spotipy.iml" />
+    </modules>
+  </component>
+</project>
