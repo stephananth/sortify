@@ -30,7 +30,8 @@ def list_playlists(username):
         playlist_id = uri.split(':')[4]
         results = sp.user_playlist(username, playlist_id)
         client_credentials_manager = SpotifyClientCredentials()
-        sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
+        sp = spotipy.Spotify(
+            client_credentials_manager=client_credentials_manager)
         results = sp.user_playlist(username, playlist_id)
         songs = []
         for item in results['tracks']['items']:
