@@ -2,10 +2,227 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b35df8e-d1b8-4ba3-93e5-f27d87f53440" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/__init__.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/adapters.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/adapters.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/auth.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/auth.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/cookies.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/cookies.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/models.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/__init__.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/chardet/chardetect.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/chardet/chardetect.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/chardet/charsetgroupprober.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/chardet/charsetgroupprober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/chardet/charsetprober.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/chardet/charsetprober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/chardet/eucjpprober.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/chardet/eucjpprober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/chardet/mbcharsetprober.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/chardet/mbcharsetprober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/chardet/sbcharsetprober.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/chardet/sbcharsetprober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/chardet/sjisprober.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/chardet/sjisprober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/chardet/universaldetector.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/chardet/universaldetector.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/idna/codec.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/idna/codec.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/idna/core.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/idna/core.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/__init__.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/_collections.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/_collections.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/connection.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/connection.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/connectionpool.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/connectionpool.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/contrib/appengine.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/contrib/appengine.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/contrib/ntlmpool.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/contrib/ntlmpool.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/contrib/pyopenssl.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/contrib/pyopenssl.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/exceptions.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/exceptions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/filepost.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/filepost.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/packages/__init__.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/packages/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/packages/six.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/packages/six.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/poolmanager.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/poolmanager.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/request.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/request.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/response.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/response.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/util/__init__.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/util/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/util/connection.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/util/connection.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/util/request.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/util/request.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/util/response.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/util/response.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/util/retry.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/util/retry.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/util/ssl_.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/util/ssl_.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/util/timeout.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/util/timeout.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/util/url.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/packages/urllib3/util/url.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/sessions.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/sessions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/structures.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/structures.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/build/lib/requests/utils.py" afterPath="$PROJECT_DIR$/../requests/build/lib/requests/utils.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/docs/user/advanced.rst" afterPath="$PROJECT_DIR$/../requests/docs/user/advanced.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/__init__.py" afterPath="$PROJECT_DIR$/../requests/requests/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/adapters.py" afterPath="$PROJECT_DIR$/../requests/requests/adapters.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/auth.py" afterPath="$PROJECT_DIR$/../requests/requests/auth.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/cookies.py" afterPath="$PROJECT_DIR$/../requests/requests/cookies.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/models.py" afterPath="$PROJECT_DIR$/../requests/requests/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/packages/__init__.py" afterPath="$PROJECT_DIR$/../requests/requests/packages/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/packages/chardet/chardetect.py" afterPath="$PROJECT_DIR$/../requests/requests/packages/chardet/chardetect.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/packages/chardet/charsetgroupprober.py" afterPath="$PROJECT_DIR$/../requests/requests/packages/chardet/charsetgroupprober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/packages/chardet/charsetprober.py" afterPath="$PROJECT_DIR$/../requests/requests/packages/chardet/charsetprober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/packages/chardet/eucjpprober.py" afterPath="$PROJECT_DIR$/../requests/requests/packages/chardet/eucjpprober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/packages/chardet/mbcharsetprober.py" afterPath="$PROJECT_DIR$/../requests/requests/packages/chardet/mbcharsetprober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/packages/chardet/sbcharsetprober.py" afterPath="$PROJECT_DIR$/../requests/requests/packages/chardet/sbcharsetprober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/packages/chardet/sjisprober.py" afterPath="$PROJECT_DIR$/../requests/requests/packages/chardet/sjisprober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/packages/chardet/universaldetector.py" afterPath="$PROJECT_DIR$/../requests/requests/packages/chardet/universaldetector.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/packages/idna/codec.py" afterPath="$PROJECT_DIR$/../requests/requests/packages/idna/codec.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/packages/idna/core.py" afterPath="$PROJECT_DIR$/../requests/requests/packages/idna/core.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/packages/urllib3/__init__.py" afterPath="$PROJECT_DIR$/../requests/requests/packages/urllib3/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/packages/urllib3/_collections.py" afterPath="$PROJECT_DIR$/../requests/requests/packages/urllib3/_collections.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/packages/urllib3/connection.py" afterPath="$PROJECT_DIR$/../requests/requests/packages/urllib3/connection.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/packages/urllib3/connectionpool.py" afterPath="$PROJECT_DIR$/../requests/requests/packages/urllib3/connectionpool.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/packages/urllib3/contrib/appengine.py" afterPath="$PROJECT_DIR$/../requests/requests/packages/urllib3/contrib/appengine.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/packages/urllib3/contrib/ntlmpool.py" afterPath="$PROJECT_DIR$/../requests/requests/packages/urllib3/contrib/ntlmpool.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/packages/urllib3/contrib/pyopenssl.py" afterPath="$PROJECT_DIR$/../requests/requests/packages/urllib3/contrib/pyopenssl.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/packages/urllib3/exceptions.py" afterPath="$PROJECT_DIR$/../requests/requests/packages/urllib3/exceptions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/packages/urllib3/fields.py" afterPath="$PROJECT_DIR$/../requests/requests/packages/urllib3/fields.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/packages/urllib3/filepost.py" afterPath="$PROJECT_DIR$/../requests/requests/packages/urllib3/filepost.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/packages/urllib3/packages/__init__.py" afterPath="$PROJECT_DIR$/../requests/requests/packages/urllib3/packages/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/packages/urllib3/packages/six.py" afterPath="$PROJECT_DIR$/../requests/requests/packages/urllib3/packages/six.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/packages/urllib3/poolmanager.py" afterPath="$PROJECT_DIR$/../requests/requests/packages/urllib3/poolmanager.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/packages/urllib3/request.py" afterPath="$PROJECT_DIR$/../requests/requests/packages/urllib3/request.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/packages/urllib3/response.py" afterPath="$PROJECT_DIR$/../requests/requests/packages/urllib3/response.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/packages/urllib3/util/__init__.py" afterPath="$PROJECT_DIR$/../requests/requests/packages/urllib3/util/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/packages/urllib3/util/connection.py" afterPath="$PROJECT_DIR$/../requests/requests/packages/urllib3/util/connection.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/packages/urllib3/util/request.py" afterPath="$PROJECT_DIR$/../requests/requests/packages/urllib3/util/request.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/packages/urllib3/util/response.py" afterPath="$PROJECT_DIR$/../requests/requests/packages/urllib3/util/response.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/packages/urllib3/util/retry.py" afterPath="$PROJECT_DIR$/../requests/requests/packages/urllib3/util/retry.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/packages/urllib3/util/ssl_.py" afterPath="$PROJECT_DIR$/../requests/requests/packages/urllib3/util/ssl_.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/packages/urllib3/util/timeout.py" afterPath="$PROJECT_DIR$/../requests/requests/packages/urllib3/util/timeout.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/packages/urllib3/util/url.py" afterPath="$PROJECT_DIR$/../requests/requests/packages/urllib3/util/url.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/sessions.py" afterPath="$PROJECT_DIR$/../requests/requests/sessions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/structures.py" afterPath="$PROJECT_DIR$/../requests/requests/structures.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/requests/utils.py" afterPath="$PROJECT_DIR$/../requests/requests/utils.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/setup.py" afterPath="$PROJECT_DIR$/../requests/setup.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/tests/conftest.py" afterPath="$PROJECT_DIR$/../requests/tests/conftest.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/tests/test_hooks.py" afterPath="$PROJECT_DIR$/../requests/tests/test_hooks.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/tests/test_lowlevel.py" afterPath="$PROJECT_DIR$/../requests/tests/test_lowlevel.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/tests/test_requests.py" afterPath="$PROJECT_DIR$/../requests/tests/test_requests.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/tests/test_structures.py" afterPath="$PROJECT_DIR$/../requests/tests/test_structures.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/tests/test_testserver.py" afterPath="$PROJECT_DIR$/../requests/tests/test_testserver.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requests/tests/test_utils.py" afterPath="$PROJECT_DIR$/../requests/tests/test_utils.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/build/lib/seaborn/algorithms.py" afterPath="$PROJECT_DIR$/../seaborn/build/lib/seaborn/algorithms.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/build/lib/seaborn/axisgrid.py" afterPath="$PROJECT_DIR$/../seaborn/build/lib/seaborn/axisgrid.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/build/lib/seaborn/categorical.py" afterPath="$PROJECT_DIR$/../seaborn/build/lib/seaborn/categorical.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/build/lib/seaborn/distributions.py" afterPath="$PROJECT_DIR$/../seaborn/build/lib/seaborn/distributions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/build/lib/seaborn/external/six.py" afterPath="$PROJECT_DIR$/../seaborn/build/lib/seaborn/external/six.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/build/lib/seaborn/linearmodels.py" afterPath="$PROJECT_DIR$/../seaborn/build/lib/seaborn/linearmodels.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/build/lib/seaborn/matrix.py" afterPath="$PROJECT_DIR$/../seaborn/build/lib/seaborn/matrix.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/build/lib/seaborn/miscplot.py" afterPath="$PROJECT_DIR$/../seaborn/build/lib/seaborn/miscplot.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/build/lib/seaborn/palettes.py" afterPath="$PROJECT_DIR$/../seaborn/build/lib/seaborn/palettes.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/build/lib/seaborn/rcmod.py" afterPath="$PROJECT_DIR$/../seaborn/build/lib/seaborn/rcmod.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/build/lib/seaborn/tests/test_algorithms.py" afterPath="$PROJECT_DIR$/../seaborn/build/lib/seaborn/tests/test_algorithms.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/build/lib/seaborn/tests/test_axisgrid.py" afterPath="$PROJECT_DIR$/../seaborn/build/lib/seaborn/tests/test_axisgrid.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/build/lib/seaborn/tests/test_categorical.py" afterPath="$PROJECT_DIR$/../seaborn/build/lib/seaborn/tests/test_categorical.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/build/lib/seaborn/tests/test_distributions.py" afterPath="$PROJECT_DIR$/../seaborn/build/lib/seaborn/tests/test_distributions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/build/lib/seaborn/tests/test_matrix.py" afterPath="$PROJECT_DIR$/../seaborn/build/lib/seaborn/tests/test_matrix.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/build/lib/seaborn/tests/test_miscplot.py" afterPath="$PROJECT_DIR$/../seaborn/build/lib/seaborn/tests/test_miscplot.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/build/lib/seaborn/tests/test_palettes.py" afterPath="$PROJECT_DIR$/../seaborn/build/lib/seaborn/tests/test_palettes.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/build/lib/seaborn/tests/test_rcmod.py" afterPath="$PROJECT_DIR$/../seaborn/build/lib/seaborn/tests/test_rcmod.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/build/lib/seaborn/tests/test_utils.py" afterPath="$PROJECT_DIR$/../seaborn/build/lib/seaborn/tests/test_utils.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/build/lib/seaborn/timeseries.py" afterPath="$PROJECT_DIR$/../seaborn/build/lib/seaborn/timeseries.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/build/lib/seaborn/utils.py" afterPath="$PROJECT_DIR$/../seaborn/build/lib/seaborn/utils.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/build/lib/seaborn/widgets.py" afterPath="$PROJECT_DIR$/../seaborn/build/lib/seaborn/widgets.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/doc/conf.py" afterPath="$PROJECT_DIR$/../seaborn/doc/conf.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/doc/installing.rst" afterPath="$PROJECT_DIR$/../seaborn/doc/installing.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/doc/sphinxext/ipython_console_highlighting.py" afterPath="$PROJECT_DIR$/../seaborn/doc/sphinxext/ipython_console_highlighting.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/doc/sphinxext/ipython_directive.py" afterPath="$PROJECT_DIR$/../seaborn/doc/sphinxext/ipython_directive.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/doc/sphinxext/plot_directive.py" afterPath="$PROJECT_DIR$/../seaborn/doc/sphinxext/plot_directive.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/doc/sphinxext/plot_generator.py" afterPath="$PROJECT_DIR$/../seaborn/doc/sphinxext/plot_generator.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/doc/tutorial/tools/nbstripout" afterPath="$PROJECT_DIR$/../seaborn/doc/tutorial/tools/nbstripout" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/examples/color_palettes.py" afterPath="$PROJECT_DIR$/../seaborn/examples/color_palettes.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/examples/cubehelix_palette.py" afterPath="$PROJECT_DIR$/../seaborn/examples/cubehelix_palette.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/examples/distplot_options.py" afterPath="$PROJECT_DIR$/../seaborn/examples/distplot_options.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/examples/elaborate_violinplot.py" afterPath="$PROJECT_DIR$/../seaborn/examples/elaborate_violinplot.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/examples/faceted_histogram.py" afterPath="$PROJECT_DIR$/../seaborn/examples/faceted_histogram.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/examples/facets_with_custom_projection.py" afterPath="$PROJECT_DIR$/../seaborn/examples/facets_with_custom_projection.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/examples/hexbin_marginals.py" afterPath="$PROJECT_DIR$/../seaborn/examples/hexbin_marginals.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/examples/horizontal_barplot.py" afterPath="$PROJECT_DIR$/../seaborn/examples/horizontal_barplot.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/examples/horizontal_boxplot.py" afterPath="$PROJECT_DIR$/../seaborn/examples/horizontal_boxplot.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/examples/interactplot.py" afterPath="$PROJECT_DIR$/../seaborn/examples/interactplot.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/examples/joint_kde.py" afterPath="$PROJECT_DIR$/../seaborn/examples/joint_kde.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/examples/many_facets.py" afterPath="$PROJECT_DIR$/../seaborn/examples/many_facets.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/examples/many_pairwise_correlations.py" afterPath="$PROJECT_DIR$/../seaborn/examples/many_pairwise_correlations.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/examples/marginal_ticks.py" afterPath="$PROJECT_DIR$/../seaborn/examples/marginal_ticks.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/examples/multiple_joint_kde.py" afterPath="$PROJECT_DIR$/../seaborn/examples/multiple_joint_kde.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/examples/network_correlations.py" afterPath="$PROJECT_DIR$/../seaborn/examples/network_correlations.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/examples/pair_grid_with_kde.py" afterPath="$PROJECT_DIR$/../seaborn/examples/pair_grid_with_kde.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/examples/residplot.py" afterPath="$PROJECT_DIR$/../seaborn/examples/residplot.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/examples/scatterplot_categorical.py" afterPath="$PROJECT_DIR$/../seaborn/examples/scatterplot_categorical.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/examples/simple_violinplots.py" afterPath="$PROJECT_DIR$/../seaborn/examples/simple_violinplots.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/examples/structured_heatmap.py" afterPath="$PROJECT_DIR$/../seaborn/examples/structured_heatmap.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/examples/timeseries_bootstrapped.py" afterPath="$PROJECT_DIR$/../seaborn/examples/timeseries_bootstrapped.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/examples/timeseries_of_barplots.py" afterPath="$PROJECT_DIR$/../seaborn/examples/timeseries_of_barplots.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/seaborn/algorithms.py" afterPath="$PROJECT_DIR$/../seaborn/seaborn/algorithms.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/seaborn/axisgrid.py" afterPath="$PROJECT_DIR$/../seaborn/seaborn/axisgrid.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/seaborn/categorical.py" afterPath="$PROJECT_DIR$/../seaborn/seaborn/categorical.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/seaborn/distributions.py" afterPath="$PROJECT_DIR$/../seaborn/seaborn/distributions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/seaborn/external/six.py" afterPath="$PROJECT_DIR$/../seaborn/seaborn/external/six.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/seaborn/linearmodels.py" afterPath="$PROJECT_DIR$/../seaborn/seaborn/linearmodels.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/seaborn/matrix.py" afterPath="$PROJECT_DIR$/../seaborn/seaborn/matrix.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/seaborn/miscplot.py" afterPath="$PROJECT_DIR$/../seaborn/seaborn/miscplot.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/seaborn/palettes.py" afterPath="$PROJECT_DIR$/../seaborn/seaborn/palettes.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/seaborn/rcmod.py" afterPath="$PROJECT_DIR$/../seaborn/seaborn/rcmod.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/seaborn/tests/test_algorithms.py" afterPath="$PROJECT_DIR$/../seaborn/seaborn/tests/test_algorithms.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/seaborn/tests/test_axisgrid.py" afterPath="$PROJECT_DIR$/../seaborn/seaborn/tests/test_axisgrid.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/seaborn/tests/test_distributions.py" afterPath="$PROJECT_DIR$/../seaborn/seaborn/tests/test_distributions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/seaborn/tests/test_matrix.py" afterPath="$PROJECT_DIR$/../seaborn/seaborn/tests/test_matrix.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/seaborn/tests/test_miscplot.py" afterPath="$PROJECT_DIR$/../seaborn/seaborn/tests/test_miscplot.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/seaborn/tests/test_palettes.py" afterPath="$PROJECT_DIR$/../seaborn/seaborn/tests/test_palettes.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/seaborn/tests/test_rcmod.py" afterPath="$PROJECT_DIR$/../seaborn/seaborn/tests/test_rcmod.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/seaborn/tests/test_utils.py" afterPath="$PROJECT_DIR$/../seaborn/seaborn/tests/test_utils.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/seaborn/timeseries.py" afterPath="$PROJECT_DIR$/../seaborn/seaborn/timeseries.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/seaborn/utils.py" afterPath="$PROJECT_DIR$/../seaborn/seaborn/utils.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seaborn/seaborn/widgets.py" afterPath="$PROJECT_DIR$/../seaborn/seaborn/widgets.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/make-playlists.py" afterPath="$PROJECT_DIR$/make-playlists.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/playlist-table.py" afterPath="$PROJECT_DIR$/playlist-table.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/build/lib/spotipy/client.py" afterPath="$PROJECT_DIR$/../spotipy/build/lib/spotipy/client.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/build/lib/spotipy/oauth2.py" afterPath="$PROJECT_DIR$/../spotipy/build/lib/spotipy/oauth2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/build/lib/spotipy/util.py" afterPath="$PROJECT_DIR$/../spotipy/build/lib/spotipy/util.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/docs/index.rst" afterPath="$PROJECT_DIR$/../spotipy/docs/index.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/add_a_saved_album.py" afterPath="$PROJECT_DIR$/../spotipy/examples/add_a_saved_album.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/add_a_saved_track.py" afterPath="$PROJECT_DIR$/../spotipy/examples/add_a_saved_track.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/add_tracks_to_playlist.py" afterPath="$PROJECT_DIR$/../spotipy/examples/add_tracks_to_playlist.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/artist_albums.py" afterPath="$PROJECT_DIR$/../spotipy/examples/artist_albums.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/artist_discography.py" afterPath="$PROJECT_DIR$/../spotipy/examples/artist_discography.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/artist_recommendations.py" afterPath="$PROJECT_DIR$/../spotipy/examples/artist_recommendations.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/audio_analysis_for_track.py" afterPath="$PROJECT_DIR$/../spotipy/examples/audio_analysis_for_track.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/audio_features.py" afterPath="$PROJECT_DIR$/../spotipy/examples/audio_features.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/audio_features_for_track.py" afterPath="$PROJECT_DIR$/../spotipy/examples/audio_features_for_track.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/change_playlist_details.py" afterPath="$PROJECT_DIR$/../spotipy/examples/change_playlist_details.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/client_credentials_flow.py" afterPath="$PROJECT_DIR$/../spotipy/examples/client_credentials_flow.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/contains_a_saved_track.py" afterPath="$PROJECT_DIR$/../spotipy/examples/contains_a_saved_track.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/create_playlist.py" afterPath="$PROJECT_DIR$/../spotipy/examples/create_playlist.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/delete_a_saved_track.py" afterPath="$PROJECT_DIR$/../spotipy/examples/delete_a_saved_track.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/errors.py" afterPath="$PROJECT_DIR$/../spotipy/examples/errors.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/my_playlists.py" afterPath="$PROJECT_DIR$/../spotipy/examples/my_playlists.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/my_top_artists.py" afterPath="$PROJECT_DIR$/../spotipy/examples/my_top_artists.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/my_top_tracks.py" afterPath="$PROJECT_DIR$/../spotipy/examples/my_top_tracks.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/read_a_playlist.py" afterPath="$PROJECT_DIR$/../spotipy/examples/read_a_playlist.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/remove_specific_tracks_from_playlist.py" afterPath="$PROJECT_DIR$/../spotipy/examples/remove_specific_tracks_from_playlist.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/remove_tracks_from_playlist.py" afterPath="$PROJECT_DIR$/../spotipy/examples/remove_tracks_from_playlist.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/replace_tracks_in_playlist.py" afterPath="$PROJECT_DIR$/../spotipy/examples/replace_tracks_in_playlist.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/search.py" afterPath="$PROJECT_DIR$/../spotipy/examples/search.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/show_album.py" afterPath="$PROJECT_DIR$/../spotipy/examples/show_album.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/show_artist.py" afterPath="$PROJECT_DIR$/../spotipy/examples/show_artist.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/show_artist_top_tracks.py" afterPath="$PROJECT_DIR$/../spotipy/examples/show_artist_top_tracks.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/show_featured_playlists.py" afterPath="$PROJECT_DIR$/../spotipy/examples/show_featured_playlists.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/show_my_saved_tracks.py" afterPath="$PROJECT_DIR$/../spotipy/examples/show_my_saved_tracks.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/show_new_releases.py" afterPath="$PROJECT_DIR$/../spotipy/examples/show_new_releases.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/show_related.py" afterPath="$PROJECT_DIR$/../spotipy/examples/show_related.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/show_track_info.py" afterPath="$PROJECT_DIR$/../spotipy/examples/show_track_info.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/show_tracks.py" afterPath="$PROJECT_DIR$/../spotipy/examples/show_tracks.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/show_user.py" afterPath="$PROJECT_DIR$/../spotipy/examples/show_user.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/simple3.py" afterPath="$PROJECT_DIR$/../spotipy/examples/simple3.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/test_request_timeout.py" afterPath="$PROJECT_DIR$/../spotipy/examples/test_request_timeout.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/title_chain.py" afterPath="$PROJECT_DIR$/../spotipy/examples/title_chain.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/user_playlists.py" afterPath="$PROJECT_DIR$/../spotipy/examples/user_playlists.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/user_playlists_contents.py" afterPath="$PROJECT_DIR$/../spotipy/examples/user_playlists_contents.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/user_public_playlists.py" afterPath="$PROJECT_DIR$/../spotipy/examples/user_public_playlists.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/user_starred_playlist.py" afterPath="$PROJECT_DIR$/../spotipy/examples/user_starred_playlist.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/spotipy/client.py" afterPath="$PROJECT_DIR$/../spotipy/spotipy/client.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/spotipy/oauth2.py" afterPath="$PROJECT_DIR$/../spotipy/spotipy/oauth2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/spotipy/util.py" afterPath="$PROJECT_DIR$/../spotipy/spotipy/util.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/tests/authtests.py" afterPath="$PROJECT_DIR$/../spotipy/tests/authtests.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/tests/authtests2.py" afterPath="$PROJECT_DIR$/../spotipy/tests/authtests2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/tests/client_credentials_tests.py" afterPath="$PROJECT_DIR$/../spotipy/tests/client_credentials_tests.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/tests/test_oauth.py" afterPath="$PROJECT_DIR$/../spotipy/tests/test_oauth.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/tests/tests.py" afterPath="$PROJECT_DIR$/../spotipy/tests/tests.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -94,6 +311,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="PyCoverageOptionsProvider">
     <option name="myUseBundledCoveragePy" value="true" />
@@ -305,16 +523,16 @@
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24305555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39976552" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39976552" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -338,13 +556,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Documents/OneDrive - andrew.cmu.edu/2016-2017/Semester 2/15112/15112_2017-05-09 (hack112)/shirlegion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Documents/OneDrive - andrew.cmu.edu/2016-2017/Semester 2/15112/15112_2017-05-09 (hack112)/shirlegion.py" />
     <entry file="file://$PROJECT_DIR$/../spotipy/spotipy/client.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
