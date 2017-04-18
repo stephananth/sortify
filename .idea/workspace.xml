@@ -1,61 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b35df8e-d1b8-4ba3-93e5-f27d87f53440" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/build/lib/spotipy/client.py" afterPath="$PROJECT_DIR$/../spotipy/build/lib/spotipy/client.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/build/lib/spotipy/oauth2.py" afterPath="$PROJECT_DIR$/../spotipy/build/lib/spotipy/oauth2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/build/lib/spotipy/util.py" afterPath="$PROJECT_DIR$/../spotipy/build/lib/spotipy/util.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/docs/index.rst" afterPath="$PROJECT_DIR$/../spotipy/docs/index.rst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/add_a_saved_album.py" afterPath="$PROJECT_DIR$/../spotipy/examples/add_a_saved_album.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/add_a_saved_track.py" afterPath="$PROJECT_DIR$/../spotipy/examples/add_a_saved_track.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/add_tracks_to_playlist.py" afterPath="$PROJECT_DIR$/../spotipy/examples/add_tracks_to_playlist.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/artist_albums.py" afterPath="$PROJECT_DIR$/../spotipy/examples/artist_albums.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/artist_discography.py" afterPath="$PROJECT_DIR$/../spotipy/examples/artist_discography.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/artist_recommendations.py" afterPath="$PROJECT_DIR$/../spotipy/examples/artist_recommendations.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/audio_analysis_for_track.py" afterPath="$PROJECT_DIR$/../spotipy/examples/audio_analysis_for_track.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/audio_features.py" afterPath="$PROJECT_DIR$/../spotipy/examples/audio_features.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/audio_features_for_track.py" afterPath="$PROJECT_DIR$/../spotipy/examples/audio_features_for_track.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/change_playlist_details.py" afterPath="$PROJECT_DIR$/../spotipy/examples/change_playlist_details.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/client_credentials_flow.py" afterPath="$PROJECT_DIR$/../spotipy/examples/client_credentials_flow.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/contains_a_saved_track.py" afterPath="$PROJECT_DIR$/../spotipy/examples/contains_a_saved_track.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/create_playlist.py" afterPath="$PROJECT_DIR$/../spotipy/examples/create_playlist.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/delete_a_saved_track.py" afterPath="$PROJECT_DIR$/../spotipy/examples/delete_a_saved_track.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/errors.py" afterPath="$PROJECT_DIR$/../spotipy/examples/errors.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/my_playlists.py" afterPath="$PROJECT_DIR$/../spotipy/examples/my_playlists.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/my_top_artists.py" afterPath="$PROJECT_DIR$/../spotipy/examples/my_top_artists.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/my_top_tracks.py" afterPath="$PROJECT_DIR$/../spotipy/examples/my_top_tracks.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/read_a_playlist.py" afterPath="$PROJECT_DIR$/../spotipy/examples/read_a_playlist.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/remove_specific_tracks_from_playlist.py" afterPath="$PROJECT_DIR$/../spotipy/examples/remove_specific_tracks_from_playlist.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/remove_tracks_from_playlist.py" afterPath="$PROJECT_DIR$/../spotipy/examples/remove_tracks_from_playlist.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/replace_tracks_in_playlist.py" afterPath="$PROJECT_DIR$/../spotipy/examples/replace_tracks_in_playlist.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/search.py" afterPath="$PROJECT_DIR$/../spotipy/examples/search.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/show_album.py" afterPath="$PROJECT_DIR$/../spotipy/examples/show_album.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/show_artist.py" afterPath="$PROJECT_DIR$/../spotipy/examples/show_artist.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/show_artist_top_tracks.py" afterPath="$PROJECT_DIR$/../spotipy/examples/show_artist_top_tracks.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/show_featured_playlists.py" afterPath="$PROJECT_DIR$/../spotipy/examples/show_featured_playlists.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/show_my_saved_tracks.py" afterPath="$PROJECT_DIR$/../spotipy/examples/show_my_saved_tracks.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/show_new_releases.py" afterPath="$PROJECT_DIR$/../spotipy/examples/show_new_releases.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/show_related.py" afterPath="$PROJECT_DIR$/../spotipy/examples/show_related.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/show_track_info.py" afterPath="$PROJECT_DIR$/../spotipy/examples/show_track_info.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/show_tracks.py" afterPath="$PROJECT_DIR$/../spotipy/examples/show_tracks.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/show_user.py" afterPath="$PROJECT_DIR$/../spotipy/examples/show_user.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/simple3.py" afterPath="$PROJECT_DIR$/../spotipy/examples/simple3.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/test_request_timeout.py" afterPath="$PROJECT_DIR$/../spotipy/examples/test_request_timeout.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/title_chain.py" afterPath="$PROJECT_DIR$/../spotipy/examples/title_chain.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/user_playlists.py" afterPath="$PROJECT_DIR$/../spotipy/examples/user_playlists.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/user_playlists_contents.py" afterPath="$PROJECT_DIR$/../spotipy/examples/user_playlists_contents.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/user_public_playlists.py" afterPath="$PROJECT_DIR$/../spotipy/examples/user_public_playlists.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/examples/user_starred_playlist.py" afterPath="$PROJECT_DIR$/../spotipy/examples/user_starred_playlist.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/spotipy/client.py" afterPath="$PROJECT_DIR$/../spotipy/spotipy/client.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/spotipy/oauth2.py" afterPath="$PROJECT_DIR$/../spotipy/spotipy/oauth2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/spotipy/util.py" afterPath="$PROJECT_DIR$/../spotipy/spotipy/util.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/tests/authtests.py" afterPath="$PROJECT_DIR$/../spotipy/tests/authtests.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/tests/authtests2.py" afterPath="$PROJECT_DIR$/../spotipy/tests/authtests2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/tests/client_credentials_tests.py" afterPath="$PROJECT_DIR$/../spotipy/tests/client_credentials_tests.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/tests/test_oauth.py" afterPath="$PROJECT_DIR$/../spotipy/tests/test_oauth.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spotipy/tests/tests.py" afterPath="$PROJECT_DIR$/../spotipy/tests/tests.py" />
-    </list>
+    <list default="true" id="0b35df8e-d1b8-4ba3-93e5-f27d87f53440" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
