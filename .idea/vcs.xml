@@ -2,8 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../brew" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../pygame" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../requests" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../seaborn" vcs="Git" />
   </component>
