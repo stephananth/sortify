@@ -1,7 +1,5 @@
 Stephanie K. Ananth (sananth)
 
-Total   25.00
-
 04-05   06.00   Downloading spotipy, reading through some of the documentation, and looking through some examples
 04-07   04.00   Trying to figure out how spotipy works
 04-10   01.00   Coming up with a name and initializing a repository, files, and documentation
@@ -9,3 +7,12 @@ Total   25.00
         05.00   Writing code to create playlists
 04-14   01.00   Meeting with my mentor (eyluo) and fixing some code
 04-17   02.00   Cleaning up existing code
+04-18   06.00   Login page
+04-19   06.00   Starting Organize Page
+04-20   04.00   More graphics on the Organize page
+04-21   02.00   Sorting on Organize page
+04-22   02.00   Cleaning existing code
+04-23   04.00   Tweaking graphics and sorting
+04-24   04.00   Starting Analyze page
+04-25   04.00   Writing more code for Analyze page and cleaning it
+04-26   04.00   Making graphs and tweaking graphics more
