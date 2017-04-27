@@ -1,1 +1,0 @@
-# Stephanie K. Ananth (sananth)
