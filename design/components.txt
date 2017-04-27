@@ -1,5 +1,24 @@
 Stephanie K. Ananth (sananth)
 
+To Do:
+
+1. Login
+    Authenticate for Playlists
+
+2. Organize
+    Selecting
+        Shift
+        Sliders
+    Import Playlists
+    Create Playlists
+
+3. Analyze
+    Headings
+    Artist View
+    More/multiple graphs
+    Sliders
+
+
 Sorting
     By playlist (only saved music, all music, etc.)
     By genre

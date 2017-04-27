@@ -1,3 +1,17 @@
 Stephanie K. Ananth (sananth)
 
-Include a complete and thorough project proposal, clearly defining the problem you intend to solve and a fairly detailed description of how you intend to solve it. In particular, your proposal must list all modules/technologies you plan to use outside of Tkinter.
+In my term project, my goal is to create the program: Sortify. It will be a program written in python to utilize Spotipy (a python library for Spotify's Web API), seaborn (a data vizualization tool), and pygame. Its purpose is to simplifly, organize, analyze, and visualize a Spotify user's music and data.
+
+The Spotipy module enables the pulling of the user's Spotify data, most notably a user's top songs, artists, and playlists, related songs/artists, etc. and allows the creation of new playlists on Spotify.
+
+Users will be able to sign in securely inputting only their username and being redirected to their brower of choice to authorize my program to have access to their data if they desire to do so.
+
+Seaborn is an enhancement of matplotlib. It is capable of doing all the same data modeling (and more) and much more aesthetically pleasing as well. All of my graphs will be made using seaborn using the data pulled from spotipy.
+
+All other visuals will be done using pygame since it is much cleaner, faster, and more conducive to my project than tkinter would be.
+
+All the music, artist, and playlist IDs will be stored in lists, dictionaries, and possibly sets. The spotipy module stores almost all of its data in dictionaries, so finding the name, genre, popularity, time, year, etc. of a song is simple if its ID is known. This goes for artists and playlists as well. All necessary data can be pulled and stored rather simply if the ID is known.
+
+My desire is for my project to have a really clean and user-friendly UI, which will be modeled after Spotify's. The graphs will be simple and easy to understand but provide insight into a user's taste in music. The playlists will be simple to make and easy to customize as well, as users will be able to intuitively query data (e.g. picking certain genres/artists out of a playlist).
+
+The user will be in full control of their experience, and I want them to be able to simply, effectively, and intuitively use their own data to create playlists that they will love and to simplify their Spotify library, not to clutter it.

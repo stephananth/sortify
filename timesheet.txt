@@ -6,6 +6,10 @@ Stephanie K. Ananth (sananth)
         06.00   Editing and understanding all the code examples
         05.00   Writing code to create playlists
 04-14   01.00   Meeting with my mentor (eyluo) and fixing some code
+04-17   02.00   Cleaning up my existing code
+04-18   02.00   Working on the storyboard
+04-18   03.00   The rest of the deliverable requirements
+04-19   12.00   Got a decent amount of the GUI done
 04-17   02.00   Cleaning up existing code
 04-18   06.00   Login page
 04-19   06.00   Starting Organize Page
