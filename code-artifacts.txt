@@ -1,3 +1,0 @@
-Stephanie K. Ananth (sananth)
-
-You must have some code artifacts showing some early work, perhaps not working demos, perhaps some compelling demonstrations of various technologies (not just the default demos that most modules provide, but your own original code, even if based on those demos). In addition, you need to have some code that clearly is attempting to solve some of the core problems you are addressing. This does not require a working demo, but it does require that you must show some very clear progress in that direction. This is at the discretion of your mentor, but for most students, 200-400 lines of decent code would be a minimum amount at this point.
