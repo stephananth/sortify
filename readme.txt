@@ -6,7 +6,7 @@ Once the program directory been downloaded, the user can run the program using t
 
 python3 -i sortify.py
 
-If that is not working, make sure you have the dependencies installed and try before running it again:
+If that is not working, make sure you have the dependencies installed and try:
 
 pip install requests
 pip install spotipy (or go inside the spotipy directory and run: python3 -i setup.py install)
