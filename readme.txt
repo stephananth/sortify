@@ -9,5 +9,5 @@ python3 -i sortify.py
 If that is not working, make sure you have the dependencies installed and try before running it again:
 
 pip install requests
-pip install spotipy (Or go inside the spotipy directory and run: python3 -i setup.py install)
+pip install spotipy (or go inside the spotipy directory and run: python3 -i setup.py install)
 pip install seaborn
