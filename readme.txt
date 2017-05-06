@@ -5,3 +5,9 @@ The third party libraries are spotipy, seaborn, and matplotlib. These are includ
 Once the program directory been downloaded, the user can run the program using the following terminal command within the sortify directory:
 
 python3 -i sortify.py
+
+If that is not working, make sure you have the dependencies installed and try before running it again:
+
+pip install requests
+pip install spotipy
+pip install seaborn
