@@ -1,7 +1,7 @@
-Stephanie K. Ananth (sananth)
+This program's purpose is to sort/organize/analyze a user’s music from Spotify. It takes his or her top songs, top artists, and playlists, compares them, and creates playlists.
 
-My term project is called Sortify and its purpose is to sort/organize/analyze a user’s music from Spotify. It takes his or her top songs, top artists, and playlists, compares them, and creates playlists.
+The third party libraries are spotipy, seaborn, and matplotlib. These are included in the directory. This program should be run using python 3.
 
-The third party libraries are spotipy, seaborn, and matplotlib. These are included in directory. This program should be run using python 3.
+Once the program files have been downloaded, the user can run the program using this terminal command within the soritfy directory:
 
-The program will open the user’s primary browser to authenticate their identity, and the user should copy the url he or she was directed to and paste it into the box when prompted to do so.
+python3 -i sortify.py
