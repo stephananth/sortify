@@ -2736,6 +2736,9 @@ class AnalyzeSong(Song):
         super().__init__(data, row, song_id)
         self.parameter = data.parameter
         self.time = self.duration
+        
+    def press(self, data):
+        pass
 
     def draw(self, canvas, data):
         self.update_dimensions(data)
@@ -2768,15 +2771,7 @@ class AnalyzeSong(Song):
         canvas.create_text(data.width * 15 / data.columns, self.cy,
                            text=self.duration, fill=gray, anchor=W,
                            font='Proxima 10')
-        if (self.song_id not in data.stage_ids):
-            canvas.create_text(self.x1 + data.width / data.columns / 2, self.cy,
-                               text='+', fill=self.plus_fill,
-                               font=('Proxima %d bold' % (self.symbol_size,)))
-        else:
-            canvas.create_text(self.x1 + data.width / data.columns / 2, self.cy,
-                               text='-', fill=self.minus_fill,
-                               font=('Proxima %d bold' % (self.symbol_size,)))
-
+        
 
 ################################################################################
 
