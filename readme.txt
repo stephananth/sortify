@@ -2,11 +2,17 @@ This program's purpose is to sort/organize/analyze a user’s music from Spotify
 
 The third party libraries are spotipy, seaborn, and matplotlib. These are included in the directory. This program should be run using python 3.
 
-Once the program directory been downloaded, the user can run the program using the following terminal command within the sortify directory:
+Once the program directory been downloaded, run the program using the following terminal command within the sortify directory:
 
 python3 -i sortify.py
 
-If that is not working, make sure you have the dependencies installed and try:
+Make sure you have the dependencies installed from:
+
+github.com/plamere/spotipy
+github.com/kennethreitz/requests
+github.com/mwaskom/seaborn
+
+And try:
 
 pip install requests
 pip install spotipy (or go inside the spotipy directory and run: python3 -i setup.py install)
