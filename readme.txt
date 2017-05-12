@@ -8,8 +8,8 @@ python3 -i sortify.py
 
 Make sure you have the dependencies installed from:
 
-github.com/plamere/spotipy
 github.com/kennethreitz/requests
+github.com/plamere/spotipy
 github.com/mwaskom/seaborn
 
 And try:
