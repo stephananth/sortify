@@ -11,13 +11,13 @@ from tkinter import messagebox
 from tkinter import simpledialog
 
 import matplotlib
+matplotlib.use('TKAgg')
+import matplotlib.pyplot as plt
 
 import spotipy
 import spotipy.oauth2 as oauth2
 import spotipy.util as util
 
-matplotlib.use('TkAgg')
-import matplotlib.pyplot as plt
 import numpy as np
 import seaborn as sns
 
